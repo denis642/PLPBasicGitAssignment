@@ -14,8 +14,20 @@ GitHub Repository Creation
 git remote add origin <repository-url>
 
 <!-- List of commands used -->
+
+Commands used.
+
+
 git init
+
+
 git remote add origin <repository-url>
+
+
 git add .
+
+
 git commit -m "Initial commit with README file"
+
+
 git push -u origin master
